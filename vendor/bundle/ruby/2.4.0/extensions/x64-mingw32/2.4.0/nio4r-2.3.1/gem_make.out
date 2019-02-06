@@ -1,0 +1,14 @@
+current directory: C:/Users/Emiri/environment/sample_app/vendor/bundle/ruby/2.4.0/gems/nio4r-2.3.1/ext/nio4r
+C:/Ruby24-x64/bin/ruby.exe -r ./siteconf20180910-3668-v4da3k.rb extconf.rb
+
+current directory: C:/Users/Emiri/environment/sample_app/vendor/bundle/ruby/2.4.0/gems/nio4r-2.3.1/ext/nio4r
+make "DESTDIR=" clean
+make: *** ターゲット 'clean' を make するルールがありません.  中止.
+
+current directory: C:/Users/Emiri/environment/sample_app/vendor/bundle/ruby/2.4.0/gems/nio4r-2.3.1/ext/nio4r
+make "DESTDIR="
+make: 'all' に対して行うべき事はありません.
+
+current directory: C:/Users/Emiri/environment/sample_app/vendor/bundle/ruby/2.4.0/gems/nio4r-2.3.1/ext/nio4r
+make "DESTDIR=" install
+make: 'install' に対して行うべき事はありません.
